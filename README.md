@@ -3,7 +3,9 @@
 #BeyondTheSpeckleverse Project
 
 Required ENV vars:
-export SPECKLE_API_TOKEN="############"
+
+    export SPECKLE_API_TOKEN="############"
+
 Setup:
 
     pip install specklepy
