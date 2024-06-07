@@ -49,11 +49,9 @@ Once the scanned model lives in Speckle, we can transform the model's geometries
 - [Speckle Project](https://app.speckle.systems/projects/0cbda26868/models/92fd87c60c)
 
 # Team  
-- [Agustina Aboy](https://github.com/agusaboy) // Architect & BIM Specialist ![ContactTina](https://img.shields.io/badge/Contact%20Tina-2a9190?link=https%3A%2F%2Flinktr.ee%2Fagusaboy)
+- [Agustina Aboy](https://github.com/agusaboy) // Architect & BIM Specialist 
 - [Emilio Bartolini](https://github.com/emiliobmhm) // Geometry Geek
 - [Martin Daguerre](https://github.com/mdaguerre)// Lagarsoft  
 - [Pablo Gancharov](https://github.com/PabloGancharov) // Lagarsoft  
 - [Julio Sarachaga](https://github.com/julillosamaral) // Lagarsoft 
-
-![Lagarsoft web](https://img.shields.io/badge/Lagarsoft%20web-2a2d6f?link=https%3A%2F%2Fwww.lagarsoft.com%2F)
 
