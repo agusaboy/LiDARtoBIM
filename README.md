@@ -46,7 +46,7 @@ Once the scanned model lives in Speckle, we can transform the model's geometries
  
 # Links
 - Youtube presentation
-- Speckle Project
+- [Speckle Project](https://app.speckle.systems/projects/0cbda26868/models/92fd87c60c)
 
 # Team  
 - [Agustina Aboy](https://github.com/agusaboy) // Architect & BIM Specialist ![ContactTina](https://img.shields.io/badge/Contact%20Tina-2a9190?link=https%3A%2F%2Flinktr.ee%2Fagusaboy)
