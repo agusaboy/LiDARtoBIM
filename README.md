@@ -46,8 +46,6 @@ Once the scanned model lives in Speckle, we can transform the model's geometries
 3.  **Conversion to Revit:**  
         - Copy stream link from Speckle project and Paste into Dynamo Script. (It can be run using Dynamo Player)  
         - The Dynamo script uses Speckle nodes to fetch the geometries from Speckle and convert them into Revit objects.  
-        - Example Dynamo script - Wall components:  
-            - `**sample gif**`  
         - Perform any necessary adjustments and validations within Revit.
 
 # Links
