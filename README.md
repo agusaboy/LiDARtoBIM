@@ -52,7 +52,7 @@ Once the scanned model lives in Speckle, we can transform the model's geometries
 
 # Links
 
-- Youtube presentation
+- [Youtube presentation](https://youtu.be/s0E2g_TtX3I)
 - [Speckle Project](https://app.speckle.systems/projects/0cbda26868/models/92fd87c60c)
 
 # Team
